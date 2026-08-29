@@ -1,2 +1,2 @@
-# Bisecci-n
-Repositorio dedicado a los códigos creados en el video de bisección del canal
+# Análisis numérico
+Es un proyecto con el objetivo de animar diversos algoritmos presentados en cada uno de los videos del canal
