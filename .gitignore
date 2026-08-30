@@ -1,0 +1,10 @@
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Renderizados de video 
+media/
+videos/
+*.mp4
